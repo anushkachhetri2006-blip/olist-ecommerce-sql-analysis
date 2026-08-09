@@ -11,23 +11,6 @@ The objective of this project is to use SQL to transform raw transactional data 
 
 ---
 
-## Business Objective
-
-The analysis focuses on answering key business questions such as:
-
-- How does revenue change over time?
-- Which products and categories generate the most revenue?
-- Who are the highest-value customers?
-- How many customers make repeat purchases?
-- What is the average order value?
-- Which payment methods are most commonly used?
-- How efficiently are orders being delivered?
-- Are late deliveries associated with lower review scores?
-- Which categories receive the highest customer ratings?
-- What percentage of total revenue comes from top customers or products?
-
----
-
 ## Dataset
 
 **Dataset:** Brazilian E-Commerce Public Dataset by Olist
